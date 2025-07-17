@@ -1,16 +1,12 @@
 # 🧞‍♂️ SmartShop Genie — The Future of Shopping Starts Here
 
-[![Watch Demo on YouTube](https://img.youtube.com/vi/cBjKcaJCQb4/maxresdefault.jpg)](https://youtu.be/cBjKcaJCQb4)
-
-🎥 **Demo Video**: [https://youtu.be/cBjKcaJCQb4](https://youtu.be/cBjKcaJCQb4)
-
 🚀 **Try the Live Demo**:
-👉 https://smartshop-genie-virtual-retail-nghbr27m1.vercel.app/
+👉 https://smartshopgenie.netlify.app/
 
 SmartShop Genie is a futuristic, AI-powered virtual shopping experience that transforms traditional e-commerce into an interactive, gamified, and hyper-personalized journey.  
 Built with cutting-edge web tech, it reimagines retail with features like virtual store maps, animated avatars, AI optimization, and immersive scanning.
 
-👤 **Built by:** Prabhat Kale  
+👤 **Built by:** Aryan Jaiswal 
 🛍️ **Hackathon Submission:** Walmart Sparkathon 2025  
 🏆 **Theme:** Reimagining Customer Experience with Emerging Technologies
 
@@ -67,6 +63,6 @@ npm run dev
 
 # 🧠 About the Developer
 
-**Prabhat Kale**  
+**Aryan Jaiswal**  
 Ramdeobaba College of Engineering, Nagpur  
-📧 kaleps@rknec.edu  
+📧 aryanjaiswal763@gmail.com 
